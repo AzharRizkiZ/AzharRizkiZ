@@ -1,0 +1,19 @@
+  name: gitartwork from a contribution graph
+  on: 
+    workflow_dispatch:
+    schedule:
+      - cron: '39 */8 * * *'
+
+  jobs:
+    build:
+      name: Make gitartwork SVG
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: jasineri/gitartwork@v1
+          with:
+              # Use this username's contribution graph  
+              user_name: ${{ github.repository_owner }}
+              # Text on contribution graph 
+              text: JOE HAWK
+        - uses: jasineri/simple-push-action@v1
