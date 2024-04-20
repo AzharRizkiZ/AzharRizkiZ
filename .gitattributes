@@ -1,0 +1,8 @@
+# automatically normalize line endings
+* text=auto
+
+*.md text linguist-detectable
+
+*.png binary
+*.{jpeg,jpg} binary
+*.gif binary
