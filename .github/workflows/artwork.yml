@@ -16,5 +16,5 @@
               user_name: ${{ github.repository_owner }}
               # Text on contribution graph 
               text: JOE HAWK
-        - uses: jasineri/simple-push-action@v1
+        - uses: jasineri/simple-push-action@v2
         
