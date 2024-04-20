@@ -1,0 +1,38 @@
+name: Simple CI
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  test-python:
+    name: Run python script
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11']
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Run python script
+        run: python generate.py
+
+  test-nim:
+    name: Run nim script
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Nim
+        uses: jiro4989/setup-nim-action@v1
+        with:
+          nim-version: 'stable'
+      - name: Run nim script
+        run: nim r generate.nim
