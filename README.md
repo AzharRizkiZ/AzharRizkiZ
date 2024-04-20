@@ -33,7 +33,7 @@
       <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
       <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
       <img src="metrics.plugin.achivements.svg" alt="Metrics"/>
-      <img src="metrics.plugin.personal.anilist.svg" alt="Metrics"/>
+      <!-- <img src="metrics.plugin.personal.anilist.svg" alt="Metrics"/> -->
       <img src="metrics.plugin.pagespeed.svg" alt="Metrics"/>
       <img src="metrics.plugin.gists.svg" alt="Metrics"/>
     </a>
@@ -113,4 +113,4 @@
         </p>
 </details> -->
 
-Updated: 20/04/2024 18:24:26
+Updated: 21/04/2024 02:00:00
