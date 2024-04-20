@@ -31,13 +31,14 @@ writeFile("yo.md", &"""<p align="center">
   <summary align="center"><h1>📈 Github Metrics 📊</h1></summary>
   <p align="center">
     <a href="https://github.com/azharrizkiz">
-    <img src="metrics.plugin.topics.mastered.svg" alt="Metrics"/>
-    <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
-    <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
-    <img src="metrics.plugin.achivements.svg" alt="Metrics"/>
-    <img src="metrics.plugin.personal.anilist.svg" alt="Metrics"/>
-    <img src="metrics.plugin.pagespeed.svg" alt="Metrics"/>
-    <img src="metrics.plugin.gists.svg" alt="Metrics"/>
+      <img src="metrics.plugin.topics.mastered.svg" alt="Metrics"/>
+      <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
+      <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
+      <img src="metrics.plugin.achivements.svg" alt="Metrics"/>
+      <img src="metrics.plugin.personal.anilist.svg" alt="Metrics"/>
+      <img src="metrics.plugin.pagespeed.svg" alt="Metrics"/>
+      <img src="metrics.plugin.gists.svg" alt="Metrics"/>
+    </a>
   </p>
 </details>
 
