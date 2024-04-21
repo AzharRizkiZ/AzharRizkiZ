@@ -47,6 +47,7 @@ if False:
   <p align="center">
     <a href="https://github.com/azharrizkiz">
       <img src="metrics.plugin.topics.mastered.svg" alt="Metrics"/>
+      <img src="metrics.plugin.people.followers.svg" alt="Metrics"/>
       <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
       <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
       <img src="metrics.plugin.achivements.svg" alt="Metrics"/>
