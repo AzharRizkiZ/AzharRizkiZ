@@ -62,7 +62,7 @@ jobs:
           filename: metrics.plugin.topics.mastered.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_topics: yes
+          #plugin_topics: yes
           #plugin_topics_sort: stars
           #plugin_topics_mode: mastered
           #plugin_topics_limit: 0
