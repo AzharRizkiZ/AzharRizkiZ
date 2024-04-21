@@ -107,13 +107,13 @@ jobs:
           #plugin_languages_skipped: , 
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
-      - name: 🎫 Gists plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          user: AzharRizkiZ
-          filename: metrics.plugin.gists.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_gists: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+      #- name: 🎫 Gists plugin
+      #  if: ${{ success() || failure() }}
+      #  uses: lowlighter/metrics@master
+      #  with:
+      #    user: AzharRizkiZ
+      #    filename: metrics.plugin.gists.svg
+      #    token: ${{ secrets.METRICS_TOKEN }}
+      #    base: ""
+      #    plugin_gists: yes
+      #    plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
