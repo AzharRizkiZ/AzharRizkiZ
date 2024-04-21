@@ -63,9 +63,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_topics: yes
-          plugin_topics_sort: stars
+          #plugin_topics_sort: stars
           #plugin_topics_mode: mastered
-          plugin_topics_limit: 0
+          #plugin_topics_limit: 0
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       - name: 🦑 Personal metrics (pagespeed)
