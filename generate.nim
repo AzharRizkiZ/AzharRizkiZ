@@ -88,10 +88,10 @@ writeFile("yo.md", &"""<p align="center">
   <!--
   <img src="https://gpvc.arturio.dev/AzharRizkiZ" alt="Profile Views" height="20">
   <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizkiZ?style=flat-square" alt="Created Badge"/>
+      <img src="https://badges.pufler.dev/created/AzharRizkiZ/AzharRizkiZ?style=flat-square" alt="Created Badge"/>
   </a>
   <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/updated/AzharRizky/AzharRizkiZ?style=flat-square" alt="Update Badge"/>
+      <img src="https://badges.pufler.dev/updated/AzharRizkiZ/AzharRizkiZ?style=flat-square" alt="Update Badge"/>
   </a>
   <a href="https://github.com/azharrizkiz/" target="_blank">
       <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
