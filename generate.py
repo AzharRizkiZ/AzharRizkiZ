@@ -83,8 +83,8 @@ if False:
 <details>
   <summary align="center"><h1 align="center">🎶 Listen Now 🎧</h1></summary>
   <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
-      <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
+      <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
     </a>
   </p>
 </details>
