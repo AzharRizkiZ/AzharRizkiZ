@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.8323539710818" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="425.8323539710818" y="0" width="14.32129045779967" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="440.1536444288814" y="0" width="6.233804739278348" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.3874491681598" y="0" width="5.556104804966759" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="451.94355397312654" y="0" width="5.007266620829617" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="456.95082059395617" y="0" width="1.729522212651537" height="8" fill="#ffc200"/>
-                    <rect mask="url(#languages-bar)" x="458.68034280660765" y="0" width="0.666647922891517" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="459.3469907294992" y="0" width="0.653009270500791" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.79622167779013" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="425.79622167779013" y="0" width="14.320075282244524" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="440.1162969600347" y="0" width="6.233275794826237" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.3495727548609" y="0" width="5.593018911034768" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="451.9425916658957" y="0" width="5.007782266247046" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="456.9503739321428" y="0" width="1.7293754609938503" height="8" fill="#ffc200"/>
+                    <rect mask="url(#languages-bar)" x="458.6797493931366" y="0" width="0.6672967448403191" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="459.3470461379769" y="0" width="0.652953862023103" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>1.81 MB</div>
-                                <div>92.57%</div>
+                                <div>92.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                                 Markdown
                             </div>
                             <small>
-                                <div>21.2 kB</div>
+                                <div>21.3 kB</div>
                                 <div>1.09%</div>
                             </small>
                         </div>
@@ -76,8 +76,8 @@
                                 YAML
                             </div>
                             <small>
-                                <div>2.83 kB</div>
-                                <div>0.14%</div>
+                                <div>2.84 kB</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                     </section>
@@ -102,8 +102,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>23.6 kB</div>
-                                <div>1.21%</div>
+                                <div>23.7 kB</div>
+                                <div>1.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
