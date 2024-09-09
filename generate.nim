@@ -1,5 +1,11 @@
 import std/[times,strformat]
 
+let localTime = now()
+
+const utcOffset = 7
+
+let utc7Time = localTime + utcOffset.hours
+
 writeFile("yo.md", &"""<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" />
@@ -118,5 +124,5 @@ writeFile("yo.md", &"""<p align="center">
         </p>
 </details> -->
 
-Updated: {now().format("dd/MM/yyyy HH:mm:ss")}
+Updated: {utc7Time.format("dd/MM/yyyy HH:mm:ss")} Western Indonesia Time
 """)
