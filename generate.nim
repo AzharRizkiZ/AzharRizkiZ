@@ -85,6 +85,9 @@ writeFile("yo.md", &"""<p align="center">
   <a href="https://github.com/AzharRizkiZ/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizkiZ&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
     <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Azhar Rizky"/>
+    <img src="https://user-badge.committers.top/indonesia/AzharRizkiZ.svg" alt="Top Github User"/>
+    <img src="https://user-badge.committers.top/indonesia_public/AzharRizkiZ.svg" alt="Top Public Committer"/>
+    <img src="https://user-badge.committers.top/indonesia_private/AzharRizkiZ.svg" alt="Top Private Committer"/>
     <!-- <img src="https://badges.pufler.dev/years/AzharRizkiZ?style=flat-square" alt="Years Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/repos/AzharRizkiZ?style=flat-square" alt="Repos Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/gists/AzharRizkiZ?style=flat-square" alt="Gists Badge"/> -->
