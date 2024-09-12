@@ -42,7 +42,7 @@ function formatDateTime(date: Date, timeZone: string): string {
 
   const newReadme = readmeContents.replace(
     /Updated: .*/,
-    `Updated: ${newDateTime} Western Indonesia Time`,
+    `Updated: ${newDateTime} Western Indonesian Time`,
   );
 
   fs.writeFileSync(readmePath, newReadme);
