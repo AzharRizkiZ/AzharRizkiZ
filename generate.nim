@@ -82,7 +82,7 @@ writeFile("yo.md", &"""<p align="center">
 
 ---
 <div align='center'>
-  <img align="center" src="https://count.getloli.com/get/@AzharRizkiZ?theme=rule34" alt="Zulma's GitHub Visitor statistics" time="Zulma's GitHub Visitor statistics" />
+  <img align="center" src="https://count.getloli.com/get/@AzharRizkiZ?theme=moebooru" alt="Zulma's GitHub Visitor statistics" time="Zulma's GitHub Visitor statistics" />
 </div>
 <p align="center">
   <a href="https://github.com/AzharRizkiZ/" target="_blank">
