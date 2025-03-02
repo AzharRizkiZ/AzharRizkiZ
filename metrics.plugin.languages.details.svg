@@ -24,10 +24,10 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="428.1035158829639" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="428.1035158829639" y="0" width="14.442352788814215" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="442.5458686717781" y="0" width="6.427570385239798" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.9734390570179" y="0" width="5.04555646519449" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="454.01899552221244" y="0" width="2.7633186300734853" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="456.7823141522859" y="0" width="1.8905175023267742" height="8" fill="#ffc200"/>
-                    <rect mask="url(#languages-bar)" x="458.67283165461265" y="0" width="0.6706762728649567" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="448.9734390570179" y="0" width="5.045320061855448" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="454.0187591188734" y="0" width="2.7640278400906144" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="456.782786958964" y="0" width="1.8905175023267742" height="8" fill="#ffc200"/>
+                    <rect mask="url(#languages-bar)" x="458.67330446129074" y="0" width="0.6702034661868707" height="8" fill="#cb171e"/>
                     <rect mask="url(#languages-bar)" x="459.3435079274776" y="0" width="0.6564920725223774" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
@@ -76,7 +76,7 @@
                                 YAML
                             </div>
                             <small>
-                                <div>2.84 kB</div>
+                                <div>2.83 kB</div>
                                 <div>0.15%</div>
                             </small>
                         </div>
