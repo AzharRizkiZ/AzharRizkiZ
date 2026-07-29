@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" />
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" alt="Typing SVG">
-  <img width="100%" src="https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20I%27m%20a%20Information%20System,%20Software%20Quality%20Assurance,%20and%20Multiplatform%20Developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://en.zulma.id/assets/images/photo/zulma.png&instagram=AzharRizkyZ&linkedin=Azhar%20Rizki%20Zulma&github=AzharRizkiZ&twitter=AzharRizkyZ&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&site=https://zulma.id">
+  <img width="100%" src="https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20I%27m%20a%20Information%20System,%20Software%20Engineer,%20and%20Multiplatform%20Developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://en.zulma.id/assets/images/photo/zulma.png&instagram=AzharRizkyZ&linkedin=Azhar%20Rizki%20Zulma&github=AzharRizkiZ&twitter=AzharRizkyZ&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&site=https://zulma.id">
 </p>
 
 <details>
@@ -21,7 +21,7 @@
       <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizkiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
       <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizkiz&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
       <img width="49.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizkiZ&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-      <img width="49.6%" src="https://github-profile-trophy.vercel.app/?username=azharrizkiz&theme=onestar&column=5&margin-w=10&margin-h=10"/>
+      <img width="49.6%" src="https://trophy.ryglcloud.net/?username=azharrizkiz&theme=onestar&column=5&margin-w=10&margin-h=10"/>
       <img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzharRizkiZ&theme=react-dark&bg_color=000000&color=FFFFFF"/>
     </a>
   </p>
