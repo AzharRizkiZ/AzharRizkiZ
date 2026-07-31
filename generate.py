@@ -47,6 +47,12 @@ if False:
       <img width="49.6%" src="https://trophy.ryglcloud.net/?username=azharrizkiz&theme=onestar&column=5&margin-w=10&margin-h=10"/>
       <img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzharRizkiZ&theme=react-dark&bg_color=000000&color=FFFFFF"/>
     </a>
+    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=46232817" target="_blank" style="display: block" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=46232817&image_size=auto&color_scheme=dark"  width="99.4%" height="auto">
+        <img alt="Dashboard stats of @AzharRizkiZ" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=46232817&image_size=auto&color_scheme=light" width="99.4%" height="auto">
+      </picture>
+    </a>
   </p>
 </details>
 
